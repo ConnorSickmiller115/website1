@@ -1,0 +1,17 @@
+---
+title: "ConnorSickmiller"
+image: "Gon.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/connor-sickmiller-10513b167/"
+  - label: Twitter
+    url: "https://twitter.com/Pontifex"
+  - label: GitHub
+    url: "https://github.com/connorsickmiller115"
+  - label: Email
+    url: "mailto:connorsickmiller@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+Bachelor of Applied Science focused in Statistics from Grand Valley State University. Currently self employed full Time Sports Trader, dedicated to finding market inefficiencies using self made weighting systems to determine implied probabilities versus actual. Advising several clients, generating $20,000 monthly net revenue.

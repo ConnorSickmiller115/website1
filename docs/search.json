@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-04T19:16:59-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hello There",
+      "description": "A website made by Connor Sickmiller to explore the creation of websites on RStudio, Click \"Connor\" tab to reach; out to him on linkedin or github.\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-04T19:17:00-04:00"
+    },
+    {
+      "path": "tobi.html",
+      "title": "ConnorSickmiller",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Connor Sickmiller Website\r\n          \r\n          \r\n          Home\r\n          Connor\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            ConnorSickmiller\r\n          \r\n          \r\n            \r\n              Bachelor of Applied Science focused in Statistics from Grand Valley State University. Currently self employed full Time Sports Trader, dedicated to finding market inefficiencies using self made weighting systems to determine implied probabilities versus actual. Advising several clients, generating $20,000 monthly net revenue.\r\n            \r\n            \r\n              Bachelor of Applied Science focused in Statistics from Grand Valley State University. Currently self employed full Time Sports Trader, dedicated to finding market inefficiencies using self made weighting systems to determine implied probabilities versus actual. Advising several clients, generating $20,000 monthly net revenue.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-07-04T19:17:00-04:00"
+    }
+  ],
+  "collections": []
+}

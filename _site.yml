@@ -1,0 +1,12 @@
+name: "."
+title: "Connor Sickmiller Website"
+description: |
+  mfeo
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Connor"              # add
+      href: tobi.html           # add
+output: distill::distill_article
